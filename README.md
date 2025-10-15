@@ -1,0 +1,1 @@
+We made a program that takes the users name and age, then repeats it back to them.
